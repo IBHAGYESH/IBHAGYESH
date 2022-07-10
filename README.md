@@ -2,4 +2,4 @@
 - 👀 I’m interested in MERN stack Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on MERN stack based projects
-- 📫 How to reach me on instagram @ibhagyesh
+- 📫 How to reach me on instagram [@ibhagyesh](https://www.instagram.com/ibhagyesh)
